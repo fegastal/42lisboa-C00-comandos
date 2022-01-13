@@ -7,5 +7,5 @@ int main()
 
 	a = 43;
 	b = 43;
-	printf("%d != %d\n", a, b, a != b);
+	printf("%d i == %d\n", a, b, a == b);
 }
